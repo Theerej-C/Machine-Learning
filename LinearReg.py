@@ -44,4 +44,3 @@ print(data.loc[10])
 print(train_imp.loc[10])
 print(predictions[10]['probabilities'][1])
 
-print("hello")
